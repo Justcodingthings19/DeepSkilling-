@@ -357,4 +357,5 @@ git status
 
 # Conclusion
 
-This lab demonstrates the complete Git branching workflow, including branch creation, switching branches, committing changes, comparing branches, merging changes into the master branch, viewing commit history, and deleting merged branches. These operations are essential for collaborative software development using Git.
+This lab demonstrates the complete Git branching workflow, including branch creation, switching branches, committing changes, comparing branches, merging changes into the master branch, viewing commit history, and deleting merged branches.
+
