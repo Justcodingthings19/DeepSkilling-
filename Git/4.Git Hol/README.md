@@ -509,5 +509,4 @@ git log --oneline --graph --decorate
 ---
 
 # Conclusion
-
-This lab demonstrates the complete Git merge conflict resolution workflow. 
+It explains how conflicts occur when multiple branches modify the same file, how to compare changes, resolve conflicts using P4Merge, commit resolved changes, use .gitignore, and maintain a clean repository for collaborative software development.
