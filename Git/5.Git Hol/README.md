@@ -204,4 +204,4 @@ git log --oneline --graph --decorate
 
 # Conclusion
 
-This lab demonstrates the final stage of the Git workflow: synchronizing local and remote repositories. By checking repository status, pulling the latest updates, pushing local commits, and verifying changes in GitHub, developers ensure that their work is safely stored and available for team collaboration.
+This lab demonstrates the final stage of the Git workflow: synchronizing local and remote repositories. 
