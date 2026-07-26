@@ -1,0 +1,25 @@
+nav {
+  background-color: #1976d2;
+  padding: 15px;
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+a:hover {
+  color: yellow;
+}
+
+
+h1 {
+  color: #1976d2;
+}

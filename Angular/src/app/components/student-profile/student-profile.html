@@ -1,0 +1,29 @@
+<h1>Student Profile</h1>
+
+<h2>Name: {{studentName}}</h2>
+
+
+<h3>Enrolled Courses</h3>
+
+
+<div *ngFor="let course of courses">
+
+<p>
+<b>Code:</b> {{course.code}}
+</p>
+
+<p>
+<b>Course:</b> {{course.name}}
+</p>
+
+<p>
+<b>Credits:</b> {{course.credits}}
+</p>
+
+<p>
+<b>Status:</b> {{course.gradeStatus}}
+</p>
+
+<hr>
+
+</div>
